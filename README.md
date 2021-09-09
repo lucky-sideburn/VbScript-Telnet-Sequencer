@@ -1,4 +1,4 @@
-VbScript-Telnet-Sequecer
+VbScript-Telnet-Sequencer
 ========================
 
 
